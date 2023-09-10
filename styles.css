@@ -1,0 +1,35 @@
+/* Basic CSS styling */
+* {
+  margin: 0;
+  padding: 0;
+}
+html, body {
+  font-family: "Overpass", Arial, Helvetica, sans-serif;
+  width: 100%;
+}
+p {
+  font-family: "Overpass", Arial, Helvetica, sans-serif;
+  font-size: 26px;
+  margin: 0;
+}
+ul, ol, li {
+  font-family: "Overpass", Arial, Helvetica, sans-serif;
+  font-size: 19px;
+}
+/* CSS for the Portfolio Section */
+.portfolio {
+  padding: 2.5% 5% 2.5%;
+  background: #E7E6E5;
+}
+#flipbook {
+  width: 1152px;
+  height: 752px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#flipbook .turn-page{
+	background-color:#ccc;
+  background-size: 100% 100%;
+}

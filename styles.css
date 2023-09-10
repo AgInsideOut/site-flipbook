@@ -18,7 +18,7 @@ ul, ol, li {
 }
 /* CSS for the Portfolio Section */
 .portfolio {
-  padding: 2.5% 5% 2.5%;
+  /* padding: 2.5% 5% 2.5%; */
   background: #E7E6E5;
 }
 #flipbook {

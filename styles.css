@@ -17,8 +17,8 @@ ul, ol, li {
   font-size: 19px;
 }
 iframe {
-  width: auto;
-  height: auto;
+  width: 80%;
+  height: 80%;
 }
 /* CSS for the Portfolio Section */
 .portfolio {
